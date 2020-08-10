@@ -17,7 +17,7 @@
 2. 安装依赖：
    
    ```Shell
-   apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools libfreetype6-dev libxft-dev
+   apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools libfreetype6-dev libxft-dev liblapack-dev libblas-dev
    ```
 
    若 libav-tools 安装失败则手动安装：
