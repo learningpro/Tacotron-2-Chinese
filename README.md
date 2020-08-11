@@ -12,7 +12,7 @@
 
 ## **安装依赖**
 
-1. 安装 Python 3 和 Tensorflow 1.10（在 Tensorflow 1.14 上用 WaveNet 会有Bug，在 1.10 上正常）。
+1. 安装 Python 3.5 和 Tensorflow 1.10（在 Tensorflow 1.14 上用 WaveNet 会有Bug，在 1.10 上正常）。
 
 2. 安装依赖：
    
