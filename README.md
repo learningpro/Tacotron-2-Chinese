@@ -26,6 +26,7 @@
    wget http://launchpadlibrarian.net/339874908/libav-tools_3.3.4-2_all.deb
    dpkg -i libav-tools_3.3.4-2_all.deb
    ```
+   安装llvmlite指定版本8.0.0
 
 3. 安装 requirements：
    
